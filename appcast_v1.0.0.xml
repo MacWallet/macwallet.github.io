@@ -5,13 +5,13 @@
       <link>https://macwallet.github.com/appcast_v1.0.0.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
-         <!-- <item>
-             <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+		<item>
+             <title>Version 0.13</title>
  						<sparkle:releaseNotesLink>
- 							http://www.include7.ch/bitcoinstatusapp/releasenotes/1.0.html
+ 							https://raw.github.com/MacWallet/MacWallet/master/CHANGELOG.md
  						</sparkle:releaseNotesLink>
-             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-             <enclosure url="http://www.include7.ch/bitcoinstatusapp/bin/OwnDropbox2.zip" sparkle:version="11" sparkle:shortVersionString="1.1" length="5939184" type="application/octet-stream" sparkle:dsaSignature="MCwCFAUjApqukZJnfTYK/CKgFhdk+NFSAhRbTEOAioVVUlsyWDLOdvkT/exO9A==" />
-          </item> -->
+             <pubDate>Wed, 06 Nov 2013 12:36:11 +0000</pubDate>
+             <enclosure url="https://github.com/MacWallet/MacWallet/releases/download/V0.12.1/MacWallet_v0.12.1.zip" sparkle:version="3" sparkle:shortVersionString="0.12.1" length="8787082" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCPjFToNE4zYKoNIBFp7kTxEByXWgIUCkrSx7Mc6gcdQJXzHYkHQZvSgRM=" />
+          </item>
    </channel>
 </rss>
